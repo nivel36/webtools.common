@@ -13,4 +13,4 @@ Require-Bundle: org.eclipse.ui;bundle-version="[3.4.0,4.0.0)",
 Bundle-ActivationPolicy: lazy
 Export-Package: org.eclipse.wst.internet.cache.internal;x-friends:="org.eclipse.wst.internet.cache.tests",
  org.eclipse.wst.internet.cache.internal.preferences;x-internal:=true
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-17
